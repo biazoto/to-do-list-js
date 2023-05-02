@@ -1,2 +1,2 @@
 # to-do-list-js
-TO-DO LIST whith HTML + CSS + JAVASCRIPT
+TO-DO LIST do biazoto 
